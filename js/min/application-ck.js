@@ -1,0 +1,1 @@
+window.Film=Ember.Application.create();
