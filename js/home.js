@@ -1,6 +1,6 @@
 $(document).ready(function() {
-
- //GLOBAL VARIABLES
+ 
+ 	//GLOBALS
 	var nav = $('nav a');
 	var bottom = $('#nav-bottom a');
 	var win_height = $(window).height();
@@ -15,7 +15,7 @@ $(document).ready(function() {
 	var sd_download = $('#download').find('.download-left a');
 	var hd_download = $('#download').find('.download-right a');
 
-	//youtube
+	//YOUTUBE
 	var player, duration, i, videoId;
 	//flags for GA youtube events
 	var percentTwentyFive = 0;
@@ -44,9 +44,6 @@ $(document).ready(function() {
 	var links = $('#artist-info').find('.links ul');
 	var cast = $('#insert-name').text();
 	var title = $('#insert-name');
-
-
-
 
 
 	findLocation();
@@ -79,7 +76,6 @@ $(document).ready(function() {
 					videoId = '_EDnMFJiv8U';
 					init();
 				}
-
 			});
 		}
 
@@ -91,8 +87,6 @@ $(document).ready(function() {
 			init();
 		}
 	}
-
-
 
 
 
@@ -108,7 +102,7 @@ $(document).ready(function() {
 				var bio = info[i].bio;
 				var website = info[i].website;
 				appendNamesToCast(name, nickname);
-				appendNamesToArtistBox(name, nickname, bio, links, lecture, radio, magazine, website);
+				appendNamesToArtistBox(name, nickname, bio, lecture, radio, magazine, website);
 				
 			}
 		});
@@ -127,7 +121,7 @@ $(document).ready(function() {
 			);
 		}
 
-	function appendNamesToArtistBox(name, nickname, bio, links, lecture, radio, magazine, website){
+	function appendNamesToArtistBox(name, nickname, bio, lecture, radio, magazine, website){
 		$('#artist-info').append(
 			'<p class="bio' + nickname +'-bio>' + bio + '</p>');
 
@@ -141,47 +135,31 @@ $(document).ready(function() {
 				);
 		}
 
+		if (radio){
+			$('#artist-info .' + nickname + '-links').append(
+				'<li><a href="' + radio + '" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/play.gif"/></a>' +
+				'<a href="' + radio + '" target="blank">RBMA Radio Show</a></li>'
+				);
+		}
 
+		if (magazine){
+			$('#artist-info .' + nickname + '-links').append(
+				'<li><a href="' + magazine + '" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/read.gif"/></a>' +
+				'<a href="' + magazine + '" target="blank">RBMA Feature</a></li>'
+				);
+		}
+
+		if (website){
+			$('#artist-info .' + nickname + '-links').append(
+				'<li><a href="' + website + '" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/www.svg"/></a>' +
+				'<a href="' + website + '" target="blank">On The Web</a></li>'
+				);
+		}
 	}
 
-	        // <!-- Insert Artist Bio-->
-        // <% _.each(artists, function(artist){ %>
-
-        // <p class="bio <%= artist.nickname + '-bio' %>"><%- artist.bio %></p>
-
-        // <div class="links">
-        //     <ul class="<%= artist.nickname + '-links' %>">
-        //         <% if (artist.lecture){ %>
-        //         <li>
-        //             <a href="<%= artist.lecture %>" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/play.gif" /></a>
-
-        //             <a href="<%= artist.lecture %>" target="blank">Watch Lecture</a>
-        //         </li>
-        //         <% } if (artist.radio) { %>
-        //         <li>
-        //             <a href="<%= artist.radio %>" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/play.gif" /></a>
-        //             <a href="<%= artist.radio %>" target="blank">RBMA Radio Show</a>
-        //         </li>
-        //         <% } if (artist.magazine) { %>
-        //         <li>
-        //             <a href="<%= artist.magazine %>" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/read.gif" /></a>
-        //             <a href="<%= artist.magazine %>" target="blank">RBMA Feature</a>
-        //         </li>
-        //         <% } if (artist.website) { %>
-        //         <li>
-        //             <a href="<%= artist.website %>" target="blank"><img src="//d17vwh530ty7de.cloudfront.net/www.svg" /></a>
-        //             <a href="<%= artist.website %>" target="blank">On The Web</a>
-        //         </li>
-        //         <% } %>
-        //     </ul>
-        // </div> <!-- END LINKS -->
-        // <% }) %> <!-- END EACH -->
 
 
-
-
-
-
+	//SETS UP ARTIST IN IMAGE ROLLOVER STUFF
 	function initArtists(){
 		var imageBlock = $('#artist').find('.artist-images');
 		var artist = $('#artist').find('.artist-list ul a');
@@ -258,8 +236,6 @@ $(document).ready(function() {
 		artistBox.find('.exit').removeClass('hidden');
 		artistBox.find('.assets img').attr('src', '//d17vwh530ty7de.cloudfront.net/artist/' + pic + '.jpg');
 
-		
-
 		//loop through ul's, hide them, then show only the one that matches the class of artist clicked
 		links.each(function(){
 			$(this).css({
@@ -274,7 +250,7 @@ $(document).ready(function() {
 			}
 		});
 
-		//loop through each p item (created via database)
+		//loop through each p item (created via JSON)
 		artistBox.find('p').each(function(){
 			//make sure each one is hidden
 			$(this).addClass('hidden');
@@ -329,6 +305,9 @@ $(document).ready(function() {
 	//hide all images on load, makes callback to set images to display block
 	hideImages();
 
+	
+
+	//ARTIST PAGE NAV LOGIC
 	function updateNextArtistLink(next, currentPos){
 		
 		//currentPos += 1;
@@ -340,6 +319,7 @@ $(document).ready(function() {
 	}
 
 
+	//TO-DO: REFACTOR TO FUNCTIONS
 	$('#next-artist').on('click', function(){
 		var ogId,
 			ogName,
@@ -368,7 +348,6 @@ $(document).ready(function() {
 			updateNextArtistLink(nextId);
 
 			currentPos++;
-
 	});
 
 
@@ -408,19 +387,10 @@ $(document).ready(function() {
 
 
 
-
-
-
-
-
-
 	// MAIN PAGE INIT
 	function init(){
-		
 		loadYouTube();
 		insertArtistInfo();
-
-
 
 		function loadYouTube(){
 			var tag = document.createElement('script');
@@ -446,7 +416,6 @@ $(document).ready(function() {
 				}
 			});
 		};
-
 
 
 		function onPlayerReady(){
@@ -482,8 +451,6 @@ $(document).ready(function() {
 				clearInterval(i);
 			}
 		}
-
-
 
 
 		function checkPlayer(){
@@ -651,9 +618,10 @@ $(document).ready(function() {
 		}
 
 
+		
 		//STARTUP EVENT LISTENERS AND FUNCTIONS
 
-		//REFACTOR TO FUNCTIONS!!!	
+		//TO-DO: REFACTOR TO FUNCTIONS!!!	
 		$('#download').find('.download-left img').on('mouseenter', function(){
 			$(this).attr('src', '//d17vwh530ty7de.cloudfront.net/standard_def_back.svg');
 		});
@@ -736,9 +704,6 @@ $(document).ready(function() {
 				
 			}
 		});
-
 	} //end init
 }); //end doc ready
-
-
 
