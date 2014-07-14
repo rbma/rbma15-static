@@ -701,7 +701,6 @@ $(document).ready(function() {
 						display: 'none'
 					});
 				}
-				
 			}
 		});
 	} //end init
