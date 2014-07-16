@@ -1,4 +1,5 @@
 $ ->
+	#1
 	getArtistInfo = ->
 		$.ajax 'artists.json',
 			success: (data,status,xhr) ->
@@ -11,40 +12,18 @@ $ ->
 					radio = info[i].radio
 					bio = info[i].bio
 					website = info[i].website
-					appendNamesToCast(name, nickname)
-				setUpBinds()
+		
+					#add names to main page
+					appendNameToCast(name, nickname)
+
 			error: (xhr,status,err) ->
 				console.log('fail')
 			complete: (xhr, status) ->
-				console.log('comp')
-	
+				#set up binds for mouseover, mouseout, and click on artist names
+				setUpBinds()
 
-	getPics = (elem) ->
-		name = elem.data('name')
-		pic = elem.data('pic')
-		$('.artist-images').css
-			display: 'block'
-		#hide all pics
-		setupPics pic
-
-	resetPics = (elem) ->
-		$('.artist-images img').each ->
-			$(@).addClass 'hidden'
-			$(@).css
-				width: '100%'
-		$('.artist-images').hide()	
-
-	setupPics = (pic) ->
-		$('.artist-images img').each ->
-			$(@).addClass 'hidden'
-			if $(@).hasClass pic
-				$(@).removeClass 'hidden'
-				$(@).transition
-					width: '101%'
-					900
-
-	
-	appendNamesToCast = (name, nickname) ->
+	#2
+	appendNameToCast = (name, nickname) ->
 		castList = $('.artist-list ul')
 		imageList = $('.artist-images')
 
@@ -52,13 +31,8 @@ $ ->
 		imageList.append "<img data-pic='#{nickname}' class='#{nickname}' src='//d17vwh530ty7de.cloudfront.net/artist/#{nickname}.jpg' alt='#{name}'>"
 
 		artistName = $('.artist-list ul a')
-		
-		
-	#not currently getting correct index. end for day :)
-	goToArtist = (elem, artist) ->
-		console.log artist
-		currentPos = elem.index( elem )
 
+	#3
 	setUpBinds = ->
 		artistName = $('.artist-list ul a')
 		castList = $('.artist-list ul')
@@ -70,10 +44,41 @@ $ ->
 		castList.bind 'click', ->
 			goToArtist($(@), castList)
 
+	#4
+	getPics = (elem) ->
+		name = elem.data('name')
+		pic = elem.data('pic')
+		$('.artist-images').css
+			display: 'block'
+		#hide all pics
+		setupPics pic
 
-
-
+	#5
+	setupPics = (pic) ->
+		$('.artist-images img').each ->
+			$(@).addClass 'hidden'
+			if $(@).hasClass pic
+				$(@).removeClass 'hidden'
+				$(@).transition
+					width: '101%'
+					900
 
 	
+
+	#6
+	resetPics = (elem) ->
+		$('.artist-images img').each ->
+			$(@).addClass 'hidden'
+			$(@).css
+				width: '100%'
+		$('.artist-images').hide()
+
+	#7
+	#not currently getting correct index. end for day :)
+	goToArtist = (elem, artist) ->
+		console.log artist
+		currentPos = elem.index( elem )
+
+
 
 	getArtistInfo()
