@@ -237,15 +237,15 @@ nav {
       list-style-type: none;
       float: right;
       padding-right: 40px; }
-      nav .nav-top-center li a.scroll {
+      nav .nav-top-center li a {
         text-decoration: none;
-        color: white;
+        color: white !important;
         -webkit-transition: all .2s ease-in-out;
         -moz-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         transition: all .2s ease-in-out; }
-        nav .nav-top-center li a.scroll:hover {
+        nav .nav-top-center li a:hover {
           text-decoration: underline; }
 
 #nav-bottom {

@@ -341,8 +341,14 @@ $(document).ready(function() {
 
 		//on nav bar click, grab link class and pass to smooth scroll
 		$('nav').on('click', 'a.scroll', function(e){
-			e.preventDefault();
-			smoothScroll($(this));
+			if ( $(this).hasClass('booklink')){
+				return;
+			}
+			else{
+				e.preventDefault();
+				smoothScroll($(this));
+			}
+			
 			
 		});
 

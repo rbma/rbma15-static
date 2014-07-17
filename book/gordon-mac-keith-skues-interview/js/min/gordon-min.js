@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#social-links").find(".fb-like-icon").on("click",function(n){n.preventDefault(),$(this).parent().find("iframe").slideToggle()}),$("#social-end").find(".fb-icon-end").on("click",function(n){n.preventDefault(),$(this).parent().find("iframe").slideToggle()})});
