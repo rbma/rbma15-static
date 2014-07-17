@@ -1,3 +1,4 @@
+
 // ARTIST SECTION
 var artist = $('#artist').find('.artist-list ul a');
 var artistList = $('#artist').find('.artist-list ul');
@@ -85,9 +86,10 @@ function insertArtistInfo(){
 
 	//SETS UP ARTIST IN IMAGE ROLLOVER STUFF
 	function initArtists(){
-		
+
 		var imageBlock = $('#artist').find('.artist-images');
 		var artist = $('#artist').find('.artist-list ul a');
+		
 		function setDisplayOn(){
 			$('#artist').find('.artist-images').css({
 				display: 'block'

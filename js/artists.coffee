@@ -41,8 +41,8 @@ $ ->
 			getPics $(@)
 		artistName.bind 'mouseleave', ->
 			resetPics $(@)
-		castList.bind 'click', ->
-			goToArtist($(@), castList)
+		artistName.bind 'click', ->
+			goToArtist($(@), artistName)
 
 	#4
 	getPics = (elem) ->
@@ -74,10 +74,9 @@ $ ->
 		$('.artist-images').hide()
 
 	#7
-	#not currently getting correct index. end for day :)
-	goToArtist = (elem, artist) ->
-		console.log artist
-		currentPos = elem.index( elem )
+	goToArtist = (artist, list) ->
+		currentPos = list.index( artist )
+		alert currentPos
 
 
 
