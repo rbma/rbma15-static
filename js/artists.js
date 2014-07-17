@@ -56,11 +56,12 @@
       }
     };
     setUpBinds = function() {
-      var artistName, castList, nextArtist, prevArtist;
+      var artistBox, artistName, castList, nextArtist, prevArtist;
       artistName = $('.artist-list ul a');
       castList = $('.artist-list ul');
       nextArtist = $('#next-artist');
       prevArtist = $('#prev-artist');
+      artistBox = $('#artist-info');
       artistName.bind('mouseenter', function() {
         return getPics($(this));
       });
@@ -73,8 +74,14 @@
       nextArtist.bind('click', function() {
         return goToNext();
       });
-      return prevArtist.bind('click', function() {
+      prevArtist.bind('click', function() {
         return goToPrev();
+      });
+      return $('#go-home').bind('click', function() {
+        artistBox.transition({
+          left: '100%'
+        }, 500, "ease");
+        return $(this).hide();
       });
     };
     getPics = function(elem) {

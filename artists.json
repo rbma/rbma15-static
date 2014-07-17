@@ -1,4 +1,90 @@
-{"artists":[ 
+{"artists":[
+	{
+	  "name": "Adda Kaleh",
+	  "nickname": "kaleh",
+	  "bio": "Adda Kaleh’s subtle arrangements are situated somewhere \r\nin the vast field of dreamy yet mature indie pop and \r\nelectronica. Already a well-respected performance artist, \r\nAlexandra Pirici sees her music and singing under her Adda \r\nKaleh pseudonym as an extension of her artistic endeavors, \r\nwhich by no means says she doesn’t take it seriously. But \r\nit’s hard to focus on just one thing, especially when you’ve \r\nalso appeared in a Francis Ford Coppola movie alongside \r\nTim Roth. ",
+	  "radio": "http://www.rbmaradio.com/shows/adda-kaleh-live-at-rbma-x-boiler-room-nyc",
+	  "magazine": "",
+	  "website": "http://www.facebook.com/alexandra.pirici"
+	},
+
+	{
+	  "bio": "With a deep understanding of various musical stylings, Peruvian songstress Ale Hop crafts complex yet beautiful post-rock arrangements and pop tunes with a punk rock edge. A gifted songwriter, producer, multi-instrumentalist, and graphic designer in equal parts, Ale Hop has her fingers in several artistic pies, mirrored by the cinematic qualities of her productions. When not working on her solo album, Alejandra is engaged with her band Las Amigas de Nadle, and creates scores for short films and television.",
+	  "name": "Ale Hop",
+	  "nickname": "hop",
+	  "radio": "http://www.rbmaradio.com/people/ale-hop",
+	  "website": "http://lasamigasdenadie.com/"
+	},
+
+	{
+	  "bio": "Benjamin Damage&rsquo;s first album with partner-in-crime Doc Daneeka, <em>They! Live</em>, was recorded by special invitation in the Modeselektor studio in Berlin and released on Modeselektor&rsquo;s own label 50Weapons. The South Welshman&rsquo;s permanent move to Berlin has clearly had an impact on his music, with his last double A-side <em>Swarm/Headache</em> offering a pulverizing take on dancefloor industrialism. His just-released solo album, <em>Heliosphere</em>, sees him exploring &lsquo;94-era sci-fi synthetics fused to a 2013 rhythmic flex, and looks set to characterize another busy year for the producer, who&rsquo;ll surely be converting more dancers to his pitch-bending deep rave riddims and bass-heavy house music.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/benjamin-damage-boxer-feature",
+	  "name": "Benjamin Damage",
+	  "nickname": "damage",
+	  "radio": "http://www.rbmaradio.com/people/benjamin-damage",
+	  "website": "http://www.benjamindamage.com/"
+	},
+
+	{
+	  "bio": "Bernie Worrell first came to prominence as a founding member and musical director of Parliament/Funkadelic. While this massively influential supergroup was altering the course of music, Bernie was radically charting the course of emerging keyboard technology during the golden age of analog synthesis. After departing Parliament/Funkadelic, Worrell resurfaced with the revamped Talking Heads lineup for several albums. Worrell&rsquo;s colorings, this time delivered via new digital keyboards such as the Prophet 5, were central to the recasting of group leader David Byrne&rsquo;s musical ideas through African rhythms. In the years since he left Talking Heads, Worrell has been a phenomenally prolific studio musician, serving as a primary change-agent in the many experimental works of producer Bill Laswell while contributing his singular flair to projects by the likes of Keith Richards, the Pretenders, and Deee-Lite. At the same time, he&rsquo;s among the most-sampled musicians ever, with Digital Underground, De La Soul, Dr. Dre, Snoop Dogg, Ice Cube, DMX, and countless others having built their tunes around his signature riffs.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/bernie-worrell",
+	  "name": "Bernie Worrell",
+	  "nickname": "worrell",
+	  "radio": "http://www.rbmaradio.com/shows/bernie-worrell-fireside-chat",
+	  "website": "http://www.bernieworrell.com/"
+	},
+
+	{
+	  "bio": "In a place where bounce is not so much a musical genre but a treasured way of life, Big Freedia has established herself as the scene&rsquo;s undisputed Queen Diva. A New Orleans representative through and through, Freedia has cultivated the art form of sissy rap which explicitly takes the attitude and contextual markers of gay and cross-dressing culture to the relentless grooves of down south rap and bounce music. And Freedia works a tight schedule. Besides running a decoration business and playing live up to six times a week with her set of dancers (the Divas) and her trusty DJ Rusty Lazer, the former college choir director has scored minor hit singles with &ldquo;Gin In My System&rdquo; and &ldquo;Azz Everywhere!&rdquo;. She released two full-length albums, <em>An Ha, Oh Yeah</em> (1999) and <em>Queen Diva</em> (2003), and has played alongside everyone from the Rapture to Snoop Dogg to Spank Rock.",
+	  "name": "Big Freedia",
+	  "nickname": "freedia",
+	  "radio": "http://www.rbmaradio.com/people/big-freedia",
+	  "website": "http://www.facebook.com/bigfreediadiva"
+	},
+
+	{
+	  "bio": "Black Dice formed during the spring of 1997 in Providence, Rhode Island, as a loud, chaotic mix of early-&rsquo;80s-inspired thrash and harsh noise experimentation. Early shows seldom lasted more than 15 minutes and were characterized by violent performances. In the summer of 1998 the band relocated to NYC, and it was around that time that the emphasis shifted from conventional song structures to more open-ended sonic investigations. In spring of 2004, the band parted ways with longtime drummer Hisham Bharoocha, and gradually morphed into the tight compositional unit you can hear on their records for Animal Collective&rsquo;s Paw Tracks label and 2012&rsquo;s <em>Mr. Impossible</em> for Ribbon Music. But whatever incarnation of the band you may have seen, one thing has remained constant throughout the group&rsquo;s career: an irreverent, aggressive, handmade aesthetic that simultaneously revels in and reconfigures the whole of popular culture.",
+	  "name": "Black Dice",
+	  "nickname": "dice",
+	  "radio": "http://www.rbmaradio.com/people/black-dice",
+	  "website": "http://blackdice.net/"
+	},
+
+	{
+	  "bio": "Electronic music didn&rsquo;t start with Eno, but it was certainly never the same after him. On Roxy Music&rsquo;s first two albums he helped make synthesizers and tape effects part of the rock canon, pricking the ears of future synth-pop creators such as Human League. As a solo artist he forged a new genre, which he dubbed ambient music, before effectively becoming a one-man genre himself, lending touches to Genesis (where he&rsquo;s credited with &lsquo;Enossification&rsquo;), John Cale, and Bowie during his golden Berlin period. There wasn&rsquo;t much in the way of experimental &lsquo;70s music that wasn&rsquo;t made a little odder by Eno&rsquo;s touch. But that touch could also be a multi-platinum one, as he showed as a producer for U2 in the mid-&lsquo;80s and Coldplay 20 years later. In the &lsquo;90s he created perhaps the most widely heard music of all: the six-second start-up sound for Microsoft&rsquo;s Windows 95 operating system. Typically mischievous, he later let it be known that he&rsquo;d created it on a Mac.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/brian-eno",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/brian-eno-in-nyc-feature",
+	  "name": "Brian Eno",
+	  "nickname": "eno",
+	  "radio": "http://www.rbmaradio.com/people/brian-eno",
+	  "website": "http://brian-eno.net/"
+	},
+
+	{
+	  "bio": "&ldquo;In the club and on the streets, I keep bangin&rsquo; the beat.&rdquo; This quote, found on the frontpage of DJ Assault&rsquo;s website, is as good of a starting place as any when describing what it is that makes him so special. Born Craig De Sean Adams and raised in Detroit, DJ Assault came to dance music like many of his Motown brethren, via the radio. Growing up in the crucible of techno left its mark. Assault&rsquo;s best known for popularizing ghetto-tech, a brand of dance music that focuses squarely on the bass. Assault&rsquo;s DJ sets feature quick and dirty mixing, and the many records he&rsquo;s made are quick and dirty, too. &ldquo;Ass &lsquo;N&rsquo; Titties&rdquo; is probably his best-known hit, but you can easily guess what &ldquo;Crank This Mutha,&rdquo; &ldquo;Sex on the Beach,&rdquo; and &ldquo;Sumthin&rsquo; 2 Shake Yo&rsquo; Azz 2&rdquo; are about as well.",
+	  "name": "DJ Assault",
+	  "nickname": "assault",
+	  "radio": "http://www.rbmaradio.com/people/dj-assault",
+	  "website": "http://www.djassault.com/"
+	},
+
+	{
+	  "bio": "There&rsquo;s something magical about merging the naive with the lo-fi: both encompass everything we love about pop music, where simple structures, clear hooks, and danceable beats can undercut the gloss and pomp that are often mistaken for high production values. Lyon-based Camille Bouvot-Duval, the one-woman show behind De La Montagne, cites Tracy + the Plastics, the Knife, and CSS as influences, and it shows. This is brash, coy electro that plays to the sexual politics of the dancefloor while simultaneously subverting them.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/radio-picks-de-la-montagne",
+	  "name": "De La Montagne",
+	  "nickname": "montagne",
+	  "radio": "http://www.rbmaradio.com/people/de-la-montagne",
+	  "website": "http://www.wearedlm.com/"
+	},
+
+	{
+	  "bio": "Emerging from the New York punk scene, Chris Stein and Deborah Harry took the world by storm with their innovative production, sharp image and tales of urban heart break. As the songwriting partnership at the heart of Blondie, they penned some of the most definitive songs at the turn of the &lsquo;80s, mixing spiky guitars, raw synths, and driving drums that enraptured and inspired kids and rebels around the world. With classic songs like &ldquo;Hanging On The Telephone&rdquo;, &ldquo;Heart Of Glass&rdquo;, &ldquo;Rapture&rdquo;, and &ldquo;The Tide Is High&rdquo;, they created their own sound from New York&rsquo;s melting pot of punk, wave, reggae and hip hop, all shot through with Debbie Harry&rsquo;s cool soul.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/blondie",
+	  "name": "Deborah Harry",
+	  "nickname": "harry",
+	  "website": "http://www.deborahharry.com/"
+	},
+
 	{
 	  "bio": "Egyptian Lover is a legend in certain circles but a mystery to most, an artist who was in deep with most of the west coast hip hop scene before the gangsta sound came along. Born Greg Broussard, Egyptian Lover is a rapper, DJ, and producer who was hugely influenced by the New York electro scene, as well as by the electro-funk of Zapp. This was flat-out party music and dynamite on the dancefloor. Although he played to crowds of thousands with Uncle Jamm&rsquo;s Army and Radio Crew, it was as a solo artist that he made his impact. &ldquo;Egypt Egypt&rdquo; (1984) was an LA anthem and his <em>On the Nile</em> was one of the first hip hop albums released on the left coast. Although he never regained that prominence once gangsta rap swept all before it, his records and live performances have become staples of electro nights across the world.",
 	  "lecture": "http://www.redbullmusicacademy.com/lectures/egyptian-lover",
@@ -6,48 +92,494 @@
 	  "name": "Egyptian Lover",
 	  "nickname": "lover",
 	  "radio": "http://www.rbmaradio.com/people/egyptian-lover",
-	  "title": "Lecturer - 2013",
 	  "website": "http://www.facebook.com/ThEgyptianLover"
 	},
+
+	{
+	  "bio": "Erykah Badu needs little introduction. Her seminal works like <em>Baduizm</em> and the <em>New AmErykah</em> series have successively upped the ante in terms of what can be done within the soul spectrum, fusing cosmic b-girl bravado with the forward-thinking sounds of producers like the Soulquarians, Madlib, and Flying Lotus to create a sonically varied body of work, selling millions of albums in the process. Erykah Badu also heads up her own record label, Control FreaQ, and has even been caught on the ones and twos as DJ Lo Down Loretta Brown.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/erykah_badu_frother_of_the_month",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/when-erykah-met-dilla",
+	  "name": "Erykah Badu",
+	  "nickname": "badu",
+	  "radio": "http://www.rbmaradio.com/people/erykah-badu",
+	  "website": "http://www.baduworld.com/"
+	},
+
+	{
+	  "bio": "Hailing from New York City, Andrew Lustman, aka FaltyDL, sounds much more like a Croydon kid. You know the gospel by now: British bass music, caught in a crossfire of influences from dub, techno, house, hip hop and future soul. His abilities have been acknowledged by a wide range of acclaimed labels like Planet Mu, Ramp, Rush Hour, 50Weapons, Swamp 81, and Hemlock. The iconic Ninja Tune imprint deserves a separate mention, as their release of Falty&rsquo;s <em>Hardcourage</em> LP in 2013 marked a recent high point in the career of the ever-inventive bass aficionado.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/faltydl",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/rescued-from-the-fire-17-falty-dl",
+	  "name": "Falty DL",
+	  "nickname": "dl",
+	  "radio": "http://www.rbmaradio.com/people/faltydl",
+	  "website": "http://www.facebook.com/FaltyDL"
+	},
+
+	{
+	  "bio": "The music of Flying Lotus&mdash;sometimes sun-drenched like a midsummer afternoon in his hometown of Los Angeles, other times disturbingly dark and drawn from the deepest corners of an overfed brain&mdash;has won him fans from across the spectrum of modern music (just ask Thom Yorke, Erykah Badu, and Odd Future). Listen for the liquid pulse of unquantized beats and the blissed-out soundtracks of outer-space computer vistas, add in a cartoonist&rsquo;s sense of color, and you can see why everyone wants his tracks. The <em>BBC</em> even hailed Flying Lotus as &ldquo;the Jimi Hendrix of our generation.&rdquo; He&rsquo;s created groundbreaking albums for Plug Research and Warp, including 2012&rsquo;s landmark <em>&lsquo;Until The Quiet Comes&rsquo;</em> (Warp); collaborated with filmmakers such as Kahlil Joseph and directed his own video projects; and released music by like-minded artists such as Daedelus and The Gaslamp Killer on his own label, Brainfeeder. This Academy grad can do no wrong.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/flying-lotus-layer-3-video",
+	  "name": "Flying Lotus",
+	  "nickname": "lotus",
+	  "radio": "http://www.rbmaradio.com/people/flying-lotus",
+	  "website": "http://flying-lotus.com/"
+	},
+
+	{
+	  "bio": "If there ever was a DJ/producer/engineer that deserved a monograph, it is probably Fran&ccedil;ois Kevorkian. After moving to New York in 1975, his influential disco edits and medleys landed him an A&amp;R job at Prelude where he helped define the dance-music zeitgeist. As a DJ he took the helm at seminal clubs like Studio 54, the Loft, and the Paradise Garage. By the mid-&rsquo;80s, Fran&ccedil;ois K had become an in-demand producer and remixer on both sides of the Atlantic: working with Yazoo, U2, the Cure, Diana Ross, Kraftwerk, and Depeche Mode among others. Fast-forward to 1996 and the legendary Sunday afternoon party Body &amp; Soul in which Kevorkian gathered Joe Claussell and Danny Krivit around him to give their musical visions a home. He&rsquo;s followed that up with his current NYC weekly club residency Deep Space, where every Monday night he focuses on dub music in its various forms.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/francois-k",
+	  "name": "François K",
+	  "nickname": "kevorkian",
+	  "radio": "http://www.rbmaradio.com/people/francois-k",
+	  "website": "http://www.facebook.com/pages/Fran%C3%A7ois-K/19153504620"
+	},
+
+	{
+	  "bio": "Originally hailing from sunny San Diego, William Benjamin Bensussen aka The Gaslamp Killer relocated to Los Angeles in 2005, co-founded the infamous Low End Theory party series together with Daddy Kev and DJ Nobody and became a cohort of Flying Lotus and the Brainfeeder crew. A master of dark, swampy funk, coupled with murderous drums and sounds from beyond, the scourge of gaslamps everywhere is an integral part of the LA beat scene alongside the likes of Daedelus, Samiyam and Flying Lotus, just to name a few. When let loose on two turntables and a mic, The Gaslamp Killer brings eclectic musical flair and a dangerously wild style.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/gaslamp-killer-headphone-highlights",
+	  "name": "Gaslamp Killer",
+	  "nickname": "killer",
+	  "radio": "http://www.rbmaradio.com/people/the-gaslamp-killer",
+	  "website": "http://www.thegaslampkiller.com/"
+	},
+
+	{
+	  "bio": "One of the true greats of disco and electronic music, Giorgio Moroder brought a very European aesthetic to American dance grooves. Although Italian by upbringing, Moroder did most of his work in Munich and the influence of D&uuml;sseldorf&rsquo;s Kraftwerk can be heard in his work for Donna Summer, which includes two of the ultimate disco anthems, &ldquo;I Feel Love&rdquo; and &ldquo;Love to Love You Baby.&rdquo; This was motorik music: spacious, trippy, ever-lasting, far removed from the relentless bounce of most disco. He was also a supreme composer of soundtracks, scoring an unlikely success with &ldquo;The Chase,&rdquo; the theme from <em>Midnight Express</em>. His footprints are all over British synth-pop, from Pet Shop Boys to New Order to Human League&mdash;and it was with the latter&rsquo;s Phil Oakey that he got his biggest self-credited hit, &ldquo;Together in Electric Dreams&rdquo; in 1984. His appearance on a Daft Punk tribute track in 2013 underscored the timeless appeal of the Moroder aesthetic.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/giorgio-moroder",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/giorgio-moroder-interview",
+	  "name": "Giorgio Moroder",
+	  "nickname": "giorgio",
+	  "radio": "http://www.rbmaradio.com/people/giorgio-moroder",
+	  "website": "http://www.facebook.com/GiorgioMoroderOfficial"
+	},
+
+	{
+	  "bio": "Somehow able to connect the dots between the electric jangle of Dick Dale, the cut-and-paste aesthetic of Matmos, the sprawl of Funkadelic, and the moody synth work of the Innovative Communication label, the sound of S&atilde;o Paulo&ndash;based musician grassmass is the end result of a chaotic sound design process that combines vintage modules and programmed sequences in real time. Something must be working: grassmass recently became Arto Lindsay&rsquo;s producer of choice, placing him in such esteemed company as Brian Eno, David Byrne, Laurie Anderson, and John Zorn. An accomplished guitar and bass player and analog synth freak, he changes musical gears often, switching between organic minimalism and eerie keyboard excursions. His recent project, the duo Cassady, stands at the crossroads between analog electronics and vintage blues. What a long, strange trip it will be.",
+	  "name": "Grassmass",
+	  "nickname": "grassmass",
+	  "radio": "http://www.rbmaradio.com/shows/drone-activity-in-progress-grassmass",
+	  "website": "http://www.facebook.com/pages/Cassady/241157462636824?v=app_178091127385"
+	},
+
+	{
+	  "bio": "James Murphy almost singlehandedly brought back the cultural exchange between indie and dance music with his LCD Soundsystem, the attached DFA label, and cult singles like &ldquo;Losing My Edge&rdquo; and the Rapture&rsquo;s &ldquo;House Of Jealous Lovers.&rdquo; As the leading man and lyricist of LCD Soundsystem, he has received two Grammy nominations and received critical acclaim for the second LCD album, <em>Sound of Silver</em>. After going into film scoring (Noah Baumbach&rsquo;s <em>Greenberg</em>), with LCD&rsquo;s third album <em>This Is Happening</em> in 2010, Murphy announced the band&rsquo;s retirement. A purveyor of disco and old-school-rooted house music, James loves the opportunity to spin and is even developing his own DJ rotary mixer.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/james-murphy",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/dfa-film",
+	  "name": "James Murphy",
+	  "nickname": "murphy",
+	  "radio": "http://www.rbmaradio.com/people/james-murphy",
+	  "website": "http://dfarecords.com/"
+	},
+
 	{
 	  "bio": "Marrying the emotional severity of sticky Southern blues with the psychedelic avant garde of modernist R&amp;B, Jimi Nxir sounds pretty much unlike anything you&rsquo;ve heard of late. On a quest for the links between Miles Davis, Trane&rsquo;s spiritual phase, <em>Purple Rain</em>, Pink Floyd, and D&rsquo;Angelo, this highly talented man provides an exciting mixture of styles. Don&rsquo;t you dare call it neo-soul&mdash;unless you&rsquo;re referencing <em>The Matrix</em>, which would seem strangely accurate all of a sudden.",
-	  "lecture": "",
-	  "magazine": "",
 	  "name": "Jimi Nxir",
 	  "nickname": "nxir",
-	  "radio": "",
 	  "title": "Participant - 2013",
 	  "website": "http://jiminxir.com/"
 	},
+
+	{
+	  "bio": "Born in South Africa and raised in Brisbane, Australia, Julien Love has been steadily honing his craft as a DJ and producer over the past 15 years. Julien&rsquo;s passion for visual art and music began with the mid-&rsquo;90s Demoscene, which led to him sampling records and writing .MOD files with 8-bit tracker software. The rest of his musical DNA is comprised of sleepless nights filled with synthesizers and an insatiable addiction to B-movies. After moving to Melbourne, he was inducted into the scene by the Late Show crew from infamous, round-the-clock club Revolver. He&rsquo;s currently working on EPs for local label M-Division as well as Must Have Records out of Virginia, USA, exploring a blend of funk, electro soul, and deep house.",
+	  "name": "Julien Love",
+	  "nickname": "love",
+	  "radio": "http://www.rbmaradio.com/people/julien-love"
+	},
+
 	{
 	  "bio": "Justin Smith first came up as a DJ in Paterson, New Jersey, before going on to become a producer with one of the most envied discographies in the business. He first hit the charts in 1999 with Harlem World, Ma$e, and Kelly Price, but became renowned for his craft as a key collaborator for Jay-Z and Roc-A-Fella Records. Since then, he&rsquo;s made beats for the likes of Dipset, Rick Ross, Eminem, Kanye West, Diddy, T.I., Drake, Kendrick Lamar, and more&mdash;all while maintaining an impeccable sense of taste and a scientific interest in all things new and fresh.",
 	  "lecture": "http://www.redbullmusicacademy.com/lectures/just-blaze--show-me-what-you-got",
-	  "magazine": "",
 	  "name": "Just Blaze",
 	  "nickname": "blaze",
 	  "radio": "http://www.rbmaradio.com/people/just-blaze",
 	  "title": "Studio Team - 2013, Lecturer - 2006",
 	  "website": "https://www.facebook.com/JustBlaze"
 	},
+
 	{
-	  "bio": "Born in South Africa and raised in Brisbane, Australia, Julien Love has been steadily honing his craft as a DJ and producer over the past 15 years. Julien&rsquo;s passion for visual art and music began with the mid-&rsquo;90s Demoscene, which led to him sampling records and writing .MOD files with 8-bit tracker software. The rest of his musical DNA is comprised of sleepless nights filled with synthesizers and an insatiable addiction to B-movies. After moving to Melbourne, he was inducted into the scene by the Late Show crew from infamous, round-the-clock club Revolver. He&rsquo;s currently working on EPs for local label M-Division as well as Must Have Records out of Virginia, USA, exploring a blend of funk, electro soul, and deep house.",
-	  "lecture": "",
-	  "magazine": "",
-	  "name": "Julien Love",
-	  "nickname": "love",
-	  "radio": "http://www.rbmaradio.com/people/julien-love",
-	  "title": "",
-	  "website": ""
+	  "name": "Kaan Düzarat",
+	  "nickname": "duzarat",
+	  "bio": "Kaan Düzarat keeps himself busy with numerous projects, \r\nexploring the many sides of his musical personality. \r\nUnder the name FOC Edits, he has released a series of \r\nedits of Turkish psych and club classics, consciously \r\nweaving a web between Bariş Manço and Moodymann. \r\nUnder the pseudonyms Shrimpy and Pair Of Dirty Shoes, \r\nhis work is more overtly electronic, exploring the \r\nrelationship between slow Detroit house and the extended \r\nforms of his homeland, while his electronic trio Falso \r\nexplores the crossroads of dub and Turkish psych. Kaan’s \r\nday jobs include an ongoing stint at Istanbul’s acclaimed \r\nradio station Dinamo FM, writing jingles at his studio, \r\nnooniki, and running things with his label Vesvese.",
+	  "radio": "http://www.rbmaradio.com/people/kaan-duzarat",
+	  "website": "http://www.facebook.com/kaanduzarat"
 	},
+
 	{
-	  "name": "Adda Kaleh",
-	  "title": "",
-	  "nickname": "kaleh",
-	  "bio": "Adda Kaleh’s subtle arrangements are situated somewhere \r\nin the vast field of dreamy yet mature indie pop and \r\nelectronica. Already a well-respected performance artist, \r\nAlexandra Pirici sees her music and singing under her Adda \r\nKaleh pseudonym as an extension of her artistic endeavors, \r\nwhich by no means says she doesn’t take it seriously. But \r\nit’s hard to focus on just one thing, especially when you’ve \r\nalso appeared in a Francis Ford Coppola movie alongside \r\nTim Roth. ",
-	  "lecture": "",
-	  "radio": "http://www.rbmaradio.com/shows/adda-kaleh-live-at-rbma-x-boiler-room-nyc",
-	  "magazine": "",
-	  "website": "http://www.facebook.com/alexandra.pirici"
+	  "bio": "Ken Scott started at the top&mdash;and stayed there for over a decade. Having got himself into EMI&rsquo;s studio training program, his first session as an engineer was on the Beatles&rsquo; <em>Hard Day&rsquo;s Night</em> album. But it&rsquo;s as co-producer on Bowie&rsquo;s first golden streak that he&rsquo;s perhaps best known, stepping into the seat for the classic <em>Hunky Dory</em>, and remaining there through <em>Ziggy Stardust</em>, <em>Aladdin Sane</em>, and <em>Pinups</em>, records that made Bowie a megastar but were also as musically diverse as the Beatles in their prime. In 1974 he produced <em>Crime of the Century</em>, the breakthrough album for Supertramp, developing a reputation for marrying complex orchestrations to huge, successful hits. Less commercial, but hugely successful in its own right, was his work in jazz-rock, where he toughened up the sounds of pioneers like Mahavishnu Orchestra, Billy Cobham, and Stanley Clarke.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/ken-scott",
+	  "name": "Ken Scott",
+	  "nickname": "scott",
+	  "website": "http://twitter.com/kscottproducer"
+	},
+
+	{
+	  "name": "Kid Millions and Jim Saunter",
+	  "nickname": "millions",
+	  "bio": "Kid Millions and Jim Sauter are a heavyweight \r\nimprovisational duo that pair one of the founding members \r\nof Borbetomagus with the drummer from Oneida. Jim \r\nSauter is an improv legend, whose work with Don Dietrich \r\nas Industrial Strength and, later, as part of Borbetomagus \r\nhas been among the most influential in the world of \r\nnoise/jazz/whatever. He is a constant collaborator, having \r\nworked with Rashied Ali, Thurston Moore and, of course, \r\nKid Millions through the years. Kid Millions, aka John \r\nColpitts, is perhaps best known as the drummer for \r\nOneida. He also records as Man Forever, his vehicle for \r\nexploring the outer limits of drum performance, which was \r\ncreated to overwhelm, to investigate the nuances that \r\nbloom in the midst of repetitive music, and to act as a pure \r\nsound experience. Together, Millions and Sauter look to \r\nachieve similarly altered mind states through their \r\nincendiary live shows.",
+	  "radio": "http://www.rbmaradio.com/shows/drone-activity-in-progress-pete-swanson-kid-millions-jim-sauter-duo",
+	  "website": "http://kidmillionsjimsauterduo.blogspot.com/"
+	},
+
+	{
+	  "bio": "Eliza Coolidge has an intuitive sense for sound, instilled from an early age by her family. Working with her brother on the eclectic electronic balladry of their duo KNOX, she understands sound&rsquo;s power and handles it with delicate nuance. Exploring traditional song forms with unconventional experimentation, her work as a producer, vocalist, and instrumentalist has garnered some unlikely approval: KNOX&rsquo;s <em>Here</em> EP was released on UK label Last Night On Earth, headed by none other than superstar DJ Sasha. If that sounds like an odd fit, it&rsquo;s an indicator that Eliza is probably full of surprises.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/radio-picks-knox",
+	  "name": "Knox",
+	  "nickname": "knox",
+	  "radio": "http://www.rbmaradio.com/shows/knox-live-at-le-poisson-rouge",
+	  "website": "http://knoxtheband.tumblr.com/"
+	},
+
+	{
+	  "bio": "Born and raised in Bangor in North West Wales, Koreless, aka Lewis Roberts, relocated to Glasgow for four years to study Naval Architecture. While spending his summer holidays building ships, he secretly dedicated weeks to honing another craft, his music. After Jamie xx introduced Young Turks to Koreless&rsquo; first track &ldquo;Up Down Up Down&rdquo; in 2011, the trailblazing label invited him on his first trip to London, to play alongside Bullion, Pariah, Sampha, and Kwes. Since then, Koreless has released two singles, collaborated with Sampha and Jacques Greene, and sailed into the hearts of Internet ravers &rsquo;round the globe.",
+	  "name": "Koreless",
+	  "nickname": "koreless",
+	  "radio": "http://www.rbmaradio.com/people/koreless",
+	  "website": "http://www.facebook.com/Koreless"
+	},
+
+	{
+	  "bio": "Within the frenzied byways of the megalopolis of Lagos, hip hop and R&amp;B producer, artist, and songwriter Kraftmatiks has been steadily honing his musical craft for some time now. As a producer for a veritable smorgasbord of rappers and singers in Nigeria, his pristine sonics and adventurous arrangements tip the cap to US mega-producers like Kanye West, Ryan Leslie, will.i.am, and Timbaland while still maintaining the underground, grimy feel of classic RZA or 9th Wonder.",
+	  "name": "Kraftmatiks",
+	  "nickname": "kraftmatiks",
+	  "radio": "http://www.rbmaradio.com/people/kraftmatiks",
+	  "website": "http://www.reverbnation.com/kraftmatiks"
+	},
+
+	{
+	  "bio": "Much has been written about this iconoclastic riddim maverick, whose career has been as colorful and varied as his wardrobe. Initially causing widespread chaos at Coxsone Dodd&rsquo;s sound, and then Joe Gibbs&rsquo; sound through the &rsquo;60s, Lee &lsquo;Scratch&rsquo; Perry found his feet with his label Upsetter and set about delivering a defining reggae template to the world. In the &rsquo;70s Perry explored his own production vision even further with his Black Ark studio, and alongside other producers like King Tubby, Keith Hudson, and Errol Thompson, pioneered a new dub sound. Little could Perry have predicted the impact his limited 300-pressing <em>Blackboard Jungle Dub</em> LP would have, going on to inspire practically every strain of musical variation since, from hip hop to jungle, dubstep to techno, post-punk to house. Perry&rsquo;s legacy just gets bigger and bigger, and even now, in his 70s, he is still recording and touring, recently teaming up with iconic ambient house duo the Orb for an LP.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/lee-scratch-perry-the-congos-live-rbma-2013",
+	  "name": "Lee Perry",
+	  "nickname": "perry",
+	  "radio": "http://www.rbmaradio.com/people/lee-scratch-perry",
+	  "website": "http://www.lee-perry.com/"
+	},
+
+	{
+	  "bio": "Having just completed his master&rsquo;s thesis, Leo Aldrey continues to develop an interactive, sensor-based tonal navigation system dubbed the Tonal Pizza. Exploring both traditional and technological approaches to music composition, his work is perfectly suited for the contemporary digital landscape. Having already created sound design for projects ranging from animated shorts and commercials to iOS apps, the Barcelona-based electro-acoustic producer has now set his sights on using his unique tech creations&mdash;together with traditional acoustic instruments&mdash;to score feature films, television programs, documentaries, and audiovisual installations. Combining this love of forward-thinking technology and moving images with quirky influences ranging from the <em>Am&eacute;lie</em> score to Matthew Herbert and Animal Collective, Aldrey is set to concoct the soundtrack to tomorrow.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/workflow-leo-aldrey",
+	  "name": "Leo Aldrey",
+	  "nickname": "aldrey",
+	  "website": "http://audiobend.com/"
+	},
+
+	{
+	  "name": "Louis Baker",
+	  "nickname": "baker",
+	  "bio": "Given the enviable density of talent within the Aotearoa soul \r\nscene, it’s no surprise there are even more gifted folks yet to \r\ndiscover. Meet Louis Baker: a full-time musician and guitar \r\nteacher, active in the buzzing New Zealand scene that’s \r\nspearheaded by Fat Freddy’s Drop, Electric Wire Hustle, \r\nand Isaac Aesili’s Funkommunity. With his rather singular \r\nvoice, Louis creates a hypnotic, sideways slanting blend of \r\nsoul and blues. ",
+	  "radio": "http://www.rbmaradio.com/people/louis-baker",
+	  "website": "http://louisbaker.co.nz/"
+	},
+
+	{
+	  "name": "Love Cult",
+	  "nickname": "cult",
+	  "bio": "Love Cult is an experiment in hypnagogic shoegaze, \r\nfronted by the tape-manipulating talents of Russia’s Anya \r\nKuts. Stifled by her rigorous years of hardcore academic \r\nstudies in Music and Art, Anya began developing her own \r\napproach to de-composition, stripping her songs down to \r\nthe barest bones of vocal howls and eerie textures. The \r\nresultant sound invites images of dark corridors with \r\nfaintly glowing lights, filled with ghostly choruses and \r\nunsettling melodies, as though William Basinski was \r\nadapted for the club. Love Cult have released five \r\ncassette albums on labels like Stunned and Brave \r\nMysteries, toured with hauntological luminaries like \r\nGrouper, High Wolf, and Kria Brekkan, and have just \r\nreleased their debut LP on London’s Public Information \r\nlabel.",
+	  "radio": "http://www.rbmaradio.com/people/love-cult",
+	  "website": "http://lovecult.net/"
+	},
+
+	{
+	  "bio": "Although he initially made his name in the British jazz scene, Malcolm Cecil was a key figure in the development of the synthesizer. His best-known work was made in collaboration with soul legends. After playing bass in a series of &lsquo;50s and &lsquo;60s jazz bands, Cecil was a founding member of Alexis Korner&rsquo;s Blues Incorporated. But it was the possibilities provided by synthesizers that really excited him, and with Robert Margouleff he formed TONTO&rsquo;s Expanding Head Band, releasing two albums of highly original music in 1971 and &rsquo;72. The name was an acronym of an analog synth designed and built by Cecil himself &ndash; on which each note sounded like a different instrument. A dazzled Stevie Wonder instantly recruited Cecil and Margouleff to his cause, making them co-producers on the series of classic albums Wonder recorded, from <em>Music in the Key of Life</em> through <em>Fulfillingness&rsquo; First Finale</em>. He also had long-standing relationships with the Isley Brothers and Gil Scott-Heron, as well as with Steve Hillage, Dave Mason, Quincy Jones, and many others.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/malcolm-cecil",
+	  "name": "Malcolm Cecil",
+	  "nickname": "cecil",
+	  "website": "http://www.tontostudio.com/"
+	},
+
+	{
+	  "bio": "Having stepped out on labels like Itiswhatitis, Perlon, and Minus, Mathew Jonson has stomped loudly yet elegantly through the world of techno. A piano and percussion maestro from a young age, this Vancouver native turned Berliner combines innate musicality with proper analog outboard action, finessed with his teenage hobby of sound programming and sequencing&mdash;all with the mindset of a true club rocker. Proof of this can be found in Mathew&rsquo;s live sets with his Cobblestone Jazz and Modern Deep Left Quartet ensembles, as well as in his gutsy A&amp;R decisions for his own Wagon Repair label. He&rsquo;s also an in-demand remixer, having applied his signature sound to artists as varied as the Chemical Brothers, Plaid, VCMG, Richie Hawtin, and Moby.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/mathew-jonson--first-compression-counts",
+	  "name": "Mathew Jonson",
+	  "nickname": "jonson",
+	  "radio": "http://www.rbmaradio.com/people/mathew-jonson",
+	  "website": "http://www.facebook.com/MathewJonson"
+	},
+
+	{
+	  "bio": "A professional composer of children&rsquo;s music and, simultaneously, a Throbbing Gristle devotee, Argentina-based MELMANN has the unique ability to captivate and unnerve at the same time. His sprightly melodies are taken to heights of excess, replete with circus organ, ukelele, and detuned synths &ndash; which is exactly what makes them so scary outside of a Saturday-morning cartoon context. In his more reflective moments, MELMANN showcases a piano-driven cocktail pop side, overlaid with ambient washes and sounds of insects. Frighteningly fun.",
+	  "name": "Melmann",
+	  "nickname": "melmann",
+	  "radio": "http://www.rbmaradio.com/people/melmann",
+	  "website": "http://melmann.com.ar/"
+	},
+
+	{
+	  "bio": "If there was a calm in the middle of the creative storm, Mr. Selfish certainly wouldn&rsquo;t be found there. Weekdays he&rsquo;s in a flurry of activity in his Ade Creative Studio, deep in Rome&rsquo;s Pigneto district, soundtracking commercials, promos and videos at a blistering pace. Like a one-man Bruton Music, Alberto Spezzaferro takes his inspiration from everywhere: classics by the Beatles, Lou Reed, or Jon Spencer Blues Explosion get taken to pieces when his noise-rock band Chocolate Starfish or his garage duo Hate Rome play live. Jumping from style to style might be bewildering, but it&rsquo;s just democracy in action &ndash; Mr. Selfish lets all the different sides of his personality have their 15 minutes when the time is right.",
+	  "name": "Mr. Selfish",
+	  "nickname": "selfish",
+	  "radio": "http://www.rbmaradio.com/people/mr-selfish-squalloscope",
+	  "website": "https://soundcloud.com/mr_selfish"
+	},
+
+	{
+	  "bio": "Heavily responsible for the grimy techno soul of NYC&rsquo;s Cubic Zirconia and the greasy bass of Drop The Lime&rsquo;s live show, DJ and producer Nick Hook has been &ldquo;twisting knobs&rdquo; (self-description) for a minute now. He is no stranger to the dark underbelly of late-night clubs, having played in some of the finest temples of boom the world over. His unique strain of acid-fried basslines and vintage drum machines have kept him in demand among a smorgasbord of musicians, ranging from El-P and Kilo Kish to Azealia Banks, Machinedrum, and the Gaslamp Killer. He also has red hair, which is clearly a plus in our books.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/nick_hook_youtube_playlist",
+	  "name": "Nick Hook",
+	  "nickname": "hook",
+	  "radio": "http://www.rbmaradio.com/people/nick-hook",
+	  "website": "http://www.facebook.com/hookemon"
+	},
+
+	{
+	  "bio": "When you turn on your radio, chances are you&rsquo;ll hear the work of Nile Rodgers. And when you turn on your TV, too. In 2014 a track that he collaborated on with Daft Punk and Pharrell Williams, &#39;Get Lucky&#39;, won three Grammys, including Record of the Year. But this is just the latest in a long line of awards ceremony appearances &nbsp;for Rodgers. First and foremost associated with his band Chic and their super hits &ldquo;I Want Your Love&rdquo; and &ldquo;Le Freak,&rdquo; Rodgers&rsquo; extra-sharp guitar playing and immaculate production style can also be heard on timeless records by David Bowie, Duran Duran, Madonna, Sister Sledge, and Diana Ross, to name but a few. He is the man behind blockbuster hits like &ldquo;China Girl,&rdquo; &ldquo;Like a Virgin,&rdquo; &ldquo;Notorious,&rdquo; and &ldquo;Material Girl,&rdquo; and has raked in more platinum and gold records than the average human can count in his lifetime. In 1998, Rodgers founded the Sumthing Else Music Works record label and Sumthing Distribution, which focuses on putting out video-game soundtracks (including <em>Halo</em> and <em>Resident Evil</em>). Rodgers has also produced movie soundtracks and is involved with a number of charity projects.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/nile-rodgers--turn-the-other-chic",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/key-tracks-nile-rodgers-on-david-bowies-lets-dance",
+	  "name": "Nile Rodgers",
+	  "nickname": "rodgers",
+	  "radio": "http://www.rbmaradio.com/people/nile-rodgers",
+	  "website": "http://www.nilerodgers.com/"
+	},
+
+	{
+	  "name": "Octo Octa",
+	  "nickname": "octa",
+	  "bio": "Octo Octa has been releasing records for less than two \r\nyears, but he’s already found a niche and a family. With \r\nthe 100% Silk imprint, the Brooklyn-based artist is \r\nplugged into the Los Angeles Not Not Fun matrix—two \r\nsister labels creating one of the most talked-about \r\nnetworks in the US underground. And like the other artists \r\non the 100% Silk roster, Octo Octa offers the indie flipside \r\nto the EDM craze currently sweeping the USA. His warm \r\ntake on classic house music comes somewhat sideways\r\n—he doesn’t have a background in club culture—\r\naccompanied by guileless charm and humility, which \r\nshines through in the music.",
+	  "radio": "http://www.rbmaradio.com/shows/octo-octa-live-at-lincoln-hall",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/octo-octa-feature",
+	  "website": "http://www.facebook.com/pages/Octo-Octa/311612715552997?fref=ts"
+	},
+
+	{
+	  "bio": "Squeezing the sprawling scenic greenery of Ireland through some tropical filters, the music of Bray-based Orquesta is both contemplative and festive. Wispy guitar and synth melodies float amid washes of Latin percussion, while sub-bass underpins the whole experience. While it&rsquo;s hard to imagine Baltimore&rsquo;s steely skyline among the dusty Art Deco streets of Havana, Orlando&rsquo;s island bass makes it easier to imagine the megalopolises of the future. Although much of his output focuses on the quieter moments in life, as a DJ, Orlando showcases his more Dionysian musical face when the sun goes down, alongside artists like Brenmar, Baauer, and Hypnotic Brass Ensemble.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/orquesta-bray-feature",
+	  "name": "Orlando Volcano",
+	  "nickname": "orquesta",
+	  "radio": "http://www.rbmaradio.com/people/orquesta",
+	  "website": "http://www.spookyorquesta.com/"
+	},
+
+	{
+	  "bio": "Pantha du Prince is the moniker of Hendrik Weber, an artist who grew up listening to techno and British pop like Ride, Happy Mondays and Morrissey in equal measure. He&rsquo;s combined these impulses for many years for Hamburg&rsquo;s Dial Records, an imprint where a philosophical and romantic view of electronic music is king. Pantha illuminates the dancefloor with his live sets, and his beautiful and blissfully disturbing minimal techno has gained praise from around the world. In 2010 he released the album <em>Black Noise</em>, a fine piece of fragile techno folklore. Ever since, Weber has focused his artistic endeavors on a project with Norwegian composer Lars Petter Hagen called the Bell Laboratory. It indulges his longtime fascination with bells, sonorous instruments that have often colored his minimal techno tracks. Traveling the world with an extensive set-up&mdash;most notably a three-ton, 50-bell carillon&mdash;the Bell Laboratory is the newest chapter in this sonic explorer&rsquo;s wide-reaching career.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/interview-pantha-du-prince",
+	  "name": "Pantha Du Prince",
+	  "nickname": "prince",
+	  "radio": "http://www.rbmaradio.com/people/pantha-du-prince",
+	  "website": "http://www.panthaduprince.com/"
+	},
+
+	{
+	  "bio": "It&rsquo;s hard to overstate the influence of New York City composer Philip Glass. Along with Steve Reich, his minimalist compositions transformed the world of classical music and, eventually, popular music in general. Glass&rsquo;s early epiphanies occurred in Paris during the mid-&rsquo;60s when he studied under Nadia Boulanger and worked with Ravi Shankar for the first time &ndash; and in New York when he heard Steve Reich&rsquo;s &ldquo;Piano Phase.&rdquo; These events helped set Glass on a course toward the repetitive, dramatic, and conceptually rigorous style that has become his trademark. Throughout the &rsquo;70s Glass refined his work, resulting in career-defining compositions like <em>Music in 12 Parts</em> and <em>Einstein on the Beach</em>. In the process he became a popular sensation, a serious composer who wasn&rsquo;t willfully obscure or too difficult to understand. Glass&rsquo;s stunning soundtrack work for films like <em>The Thin Blue Line</em> and <em>The Hours</em>, and a symphony based on David Bowie&rsquo;s album <em>Heroes</em>, have only elevated his standing as one of America&rsquo;s most popular living composers.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/philip-glass",
+	  "name": "Philip Glass",
+	  "nickname": "glass",
+	  "title": "Lecturer - 2013",
+	  "website": "http://www.philipglass.com/"
+	},
+
+	{
+	  "name": "Planningtorock",
+	  "nickname": "planningtorock",
+	  "bio": "Although still something of an underground figure, Janine \r\nRostron has an impressive list of admirers. As \r\nPlanningtorock she’s recorded with the Knife, released \r\nrecords for DFA, and been selected by Antony Hegarty for \r\nhis Meltdown Festival. A classically trained violinist, she \r\nbrings otherworldly senses to electro-pop compositions, \r\ndistorting her voice, playing with gender, and cooking up a \r\nworld where the dramatic lives—sometimes comfortably, \r\nsometimes deliberately awkwardly—with the danceable. \r\nShe co-created an avant-garde Darwin opera, Tomorrow, \r\nIn A Year, with the Knife and followed that up with the \r\ngroundbreaking album W. A video director as well as a \r\nproducer, singer, and songwriter, she moved from her \r\nnative Bolton in North West England to Berlin, where she \r\ncontinues to produce work, much of it with a fervently \r\nfeminist theme, as on the recent single “Misogyny Drop \r\nDead.”",
+	  "radio": "http://www.rbmaradio.com/people/planningtorock",
+	  "website": "http://planningtorockofficial.com/"
+	},
+
+	{
+	  "bio": "Q-Tip is one of hip hop&rsquo;s greatest MCs and producers. As a member of A Tribe Called Quest, he helped to shape the sound of hip hop throughout the &rsquo;90s. The group&rsquo;s exceptional run of full-lengths became a blueprint for MCs looking to balance the literate and the absurd, as well as producers searching for the perfect (and unexpected) break&mdash;Tribe&rsquo;s influence is pretty much unmatched in hip hop circles. Since Tribe&rsquo;s split in 1998, Q-Tip has kept busy with a solo career that has included four albums as well as countless productions and guest appearances in places both expected (Mary J. Blige, Kanye West, and Jay-Z) and improbable (Chemical Brothers, R.E.M.). He has also honed his DJ chops, spinning regularly in New York City and beyond.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/q-tip",
+	  "name": "Q-Tip",
+	  "nickname": "qtip",
+	  "radio": "http://www.rbmaradio.com/people/q-tip",
+	  "website": "http://www.facebook.com/qtip"
+	},
+
+	{
+	  "bio": "It takes a certain courage to pick up and travel across the world to explore another continent, but QuietDust has a nomadic tendency and an eye for finding universal truths in small details. Armed with just a guitar and a ukelele, QuietDust&rsquo;s abilities to condense the observations of her travels into simple melodies and romantic lyrics are not the kind of things you learn in class, although she did study piano and guitar. Aside from busking, gigging, and jamming her way around the world, her knack for selling and fitting car parts means she can turn any scrap yard, garage, or roadside casualty into an earner&mdash;a skill that could come in handy in a sticky tour-bus situation.",
+	  "name": "Quietdust",
+	  "nickname": "quietdust",
+	  "website": "http://soundcloud.com/quietdust"
+	},
+
+	{
+	  "bio": "Hip hop&rsquo;s golden age began in 1986, the day Rakim stepped to a microphone to record &ldquo;Eric B Is President.&rdquo; Only 18 years old (though he sounded considerably more worldly), Rakim (real name William Griffin) had a smooth, effortless flow that brought a cool melodicism and high intelligence to the MC game&mdash;he gave both fire and ice, set within the wiry frame of his serious features. Even those who didn&rsquo;t get the Five Percenter reference wouldn&rsquo;t have bridled at his nickname, God. His partnership with his DJ, Eric B, yielded four great albums and numerous classic singles before Rakim split for a solo career. Despite initial success with 1997&rsquo;s <em>The 18th Letter</em>, he endured several frustratingly fruitless years signed to Dr Dre&rsquo;s Aftermath, working on an album that never came. Now back in his native New York, the city where his immense influence is most clearly audible, notably in the work of other NYC wordsmiths such as Nas. As recently as 2012, <em>The Source </em>named him the greatest MC of all time.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/rakim",
+	  "name": "Rakim",
+	  "nickname": "rakim",
+	  "website": "http://www.facebook.com/rakimallah"
+	},
+
+	{
+	  "bio": "The original plastik technocrat, Richie Hawtin has walked his own path through music and always done it his way. Transplanted around the world as a child, Richie eventually found himself in Windsor, Ontario, and was inspired by the mechanical sounds that poured out of nearby Detroit. He started Plus 8 Records with John Acquaviva at the turn of the &rsquo;90s, formed the M_nus empire, and developed Final Scratch. His works under the F.U.S.E. guise, the delicious desolation of Plastikman, countless remixes, and his groundbreaking works with the Concept series and the <em>Decks, EFX &amp; 909</em> compilation are all firmly planted in techno&rsquo;s history. A fierce advocate of developing technology as long as it doesn&rsquo;t detract from the physical experience of community, he&rsquo;s continued to operate at the limits, whether it be via his wifi-enabled CONTAKT event series or his successful Ibiza night ENTER. Even after decades in the game, Richie Hawtin lives in the moment, on the cusp of the future.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/richie-hawtin",
+	  "name": "Richie Hawtin",
+	  "nickname": "hawtin",
+	  "radio": "http://www.rbmaradio.com/people/richie-hawtin",
+	  "website": "http://www.facebook.com/RichieHawtinOfficial"
+	},
+
+	{
+	  "name": "Robin S",
+	  "nickname": "robins",
+	  "bio": "Robin S. is, quite simply, one of the most heralded house \r\nmusic vocalists of all time. That’s largely down to her hits, \r\n“Show Me Love” and “Luv 4 Luv,” which soundtracked \r\nplenty of dancefloors in the ’90s (and beyond). It was clear \r\nearly on that Robin S(tone) was headed for a career in \r\nmusic: Born and raised in Queens, she started vocal \r\ntraining at the tender age of eight. A fateful meeting with a \r\nMadonna session keyboardist, though, is what propelled \r\nher toward dance music: “Show Me Love,” released in \r\n1990 was her debut single under the Robin S. name. It \r\ntook three years (and an eventual remixed version of the \r\noriginal tune) for the track to properly take off, but it has \r\nsince become one of the genre’s most indelible tunes. \r\nPerforming the song with Trouble & Bass at the Red Bull \r\nMusic Academy Culture Clash in New York, Robin proved \r\nthat her voice – and the track – is one that will transcend \r\ngenerations.",
+	  "radio": "http://www.rbmaradio.com/shows/rbma-culture-clash-nyc-2013-round-4-the-decider",
+	  "website": "http://www.discogs.com/artist/66727-Robin-S"
+	},
+
+	{
+	  "bio": "Seth was placed on earth as a weeping fetus, the sound of inevitability. As he grew, his ancestral roots took on a magnetic channeling power, more than his feeble mind could ever consciously fathom. As a result, he became capable of creating some of today&rsquo;s finest and most intuitive dance cuts, including releases on Spectral, Items &amp; Things, as Thrill Cosby on Circus Company, on FXHE as Young Seth, and many others. Through a preternatural understanding of rave, Seth conjures up mixes with Visionquest, his parties/production group turned label with partners Ryan Crosson, Shaun Reeves, and Lee Curtiss. His musical influences include the chirping of crickets, the whirring of space ships, and the sweet sounds of whistling voodoo magic. On cold Detroit or Berlin evenings one can often witness Seth Troxler in his front yard, situated beside an overly cumbersome boombox in a nylon tracksuit, jacking his body to old Dance Mania cuts and cooking bbq.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/seth-troxler",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/sethtroxler-feature",
+	  "name": "Seth Troxler",
+	  "nickname": "troxler",
+	  "radio": "http://www.rbmaradio.com/people/seth-troxler",
+	  "website": "http://www.sethtroxler.com/"
+	},
+
+	{
+	  "bio": "As ShadowBox, Bonnie Baxter takes care of vocals, instruments and production duties. Currently residing in Brooklyn, NYC she draws inspiration from sound sculptures of the &rsquo;60s, as well as futurist philosophies, books about metaphysics, space exploration, and the relationship between technology and nature. You might have heard the multi-layered beats moving around your headphones on her <em>Haunted By Colors</em> EP or through her collabs with Lapalux and Djrum. This active lucid dreamer sneezes when she eats dark chocolate, plays guitar upside down, and makes music that sounds like PJ Harvey watching waves on a mountain top with Flying Lotus. Want some depth-charged conversation on UFO-chasing or the foundational crew of electronic music like Ryoji Ikeda or Delia Derbyshire? ShadowBox is your girl.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/dark-days-the-ominous-sounds-of-nyc",
+	  "name": "Shadowbox",
+	  "nickname": "shadowbox",
+	  "radio": "http://www.rbmaradio.com/people/shadowbox",
+	  "website": "http://shadowbox4u.net/"
+	},
+
+	{
+	  "name": "Shit Robot",
+	  "nickname": "robot",
+	  "bio": "Marcus Lambkin, also known as Shit Robot, was born and \r\nbred in the suburbs of Dublin, Ireland. Growing up on a \r\nsteady diet of Killing Joke, Dead Kennedys, and the \r\nBuzzcocks, he ventured into the nightclubs of Dublin \r\nwhere he discovered acid house in the late ’80s. Things \r\nwere never to be the same when his friends began \r\nthrowing parties and booking DJs such as Andrew \r\nWeatherall and David Holmes, and Marcus was schooled \r\nin the art of the DJ set. A lucky strike in the green-card \r\nlottery led the Robot to New York City where, after a \r\nchance meeting with some like-minded friends in the East \r\nVillage, he was invited to play records at the infamous \r\nrock venue Brownies on Sunday night after the bands had \r\nfinished. A residency here and a mixtape there led to gigs \r\nall over the city, including a residency at the legendary \r\nSave the Robots. A few years later Marcus Lambkin is \r\nnow a fully fledged member of the DFA crew, having \r\nreleased his debut LP via the imprint in 2010, and is the \r\ncofounder of the record label Plant Records.",
+	  "radio": "http://www.rbmaradio.com/people/shit-robot",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/dfa-film",
+	  "website": "http://www.shitrobot.com/"
+	},
+
+	{
+	  "name": "Simonne Jones",
+	  "nickname": "jones",
+	  "bio": "Blessed with an uncanny ability to decode the mysteries of \r\nthe elusive pop song, singer, guitarist, and pianist Simonne \r\nJones channels the spirit of the Clash, PJ Harvey, and Pat \r\nBenatar in her electro-acoustic creations. Using a minimal, \r\none- or two-instrument approach to songwriting, Jones \r\nbasically operates as a one-woman band (although she \r\nappears to bring the energy of at least four). Family member \r\nPeaches was recently quoted as saying of this Berlin \r\nresident, “I’ve seen the future. Her name is Simonne Jones.”",
+	  "website": "http://simonnejones.org/"
+	},
+
+	{
+	  "bio": "Before this Barcelona-based Montrealist stretched out on his own with 2011&rsquo;s <em>The Lights</em> EP on Pelican Fly, Sinjin Hawke already made a name for himself as a tireless activist and facilitator of forward-looking, bass-led celebrations. His hometown throwdown Boomclap linked the great low frequencies from across the globe, and his high-octane mixes have won him legions of fans. His productions demonstrate an innate grasp of sensual alien jams, combining all the familiar elements of half-steppin&rsquo; footwork, neon R&amp;B, and instrumental rap; in short, he speaks in tongues we can all understand. Whether he&rsquo;s operating on his own or teaming up with DJ Sliink or Club Cheval&rsquo;s Canblaster, Sinjin Hawke&rsquo;s music adds technicolor to the most monochrome of clubs, creating the kind of atmosphere that brings all us a bit closer together.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/gangsta-boo-sinjin-hawke-yea-hoe",
+	  "name": "Sinjin Hawke",
+	  "nickname": "hawke",
+	  "radio": "http://www.rbmaradio.com/people/sinjin-hawke",
+	  "website": "http://www.facebook.com/SinjinHawkeMusic"
+	},
+
+	{
+	  "name": "Skream",
+	  "nickname": "skream",
+	  "bio": "Soundtracking the streets of suburban Croydon, Skream&rsquo;s trademark minimal sound has resounded with urban youth around the world. From his sets and radio shows with cohort Benga to his ever-evolving solo releases on Tempa and the formation of Magnetic Man, Oliver Jones&rsquo;s gravity-defying beats and pads&mdash;all buoyed by a tidal wave of sub bass&mdash;make perfect music for walking across the moon or accompanying an experiment gone wrong in a Martian research bunker. Whether he&rsquo;s making across-the-board bass music, electronic house, dubbed out disco, dancehall riddims, or funky tech it all gets squeezed through the Skream filter and ends up sounding like it&rsquo;s been beamed from the dark side of an asteroid.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/skream--zen-skreamism",
+	  "radio": "http://www.rbmaradio.com/people/skream",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/skream-interview",
+	  "website": "http://www.skreamizm.com/"
+	},
+
+	{
+	  "name": "Slow To Speak",
+	  "nickname": "speak",
+	  "bio": "Francis Englehardt and Paul Nickerson are the DJing duo \r\nSlow to Speak and the team behind Dope Jams, a local \r\nrecord shop that closed its physical doors earlier this year. \r\nThe duo are deep house devotees, cherishing the music \r\nthat they both grew up on in Boston in the early ’90s. \r\nArmand Van Helden’s after-hours party at the Loft was \r\ntheir crucible. Once they moved to New York, Englehardt \r\nand Nickerson knew they wanted to contribute to the \r\nscene in a more concrete way than simply throwing \r\nparties. The answer was Dope Jams, a store that \r\nbroadcast their increasingly eclectic tastes and acerbic \r\nworldview. They’ve gotten into plenty of trouble over the \r\nyears for their opinions about the state of electronic music, \r\nbut that’s exactly why they’re so beloved. They are \r\ncurmudgeons who have devoted their lives to doing \r\nsomething about the things that they believe can (and \r\nshould) be better.",
+	  "radio": "http://www.rbmaradio.com/shows/slow-to-speak-dope-jams-strictly-dance-mix",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/dope-jams-takedowns",
+	  "website": "http://dopejams.net/"
+	},
+
+	{
+	  "bio": "As the femme fatale of the Trouble &amp; Bass label, Vivian Host aka Star Eyes has pioneered the sound of haunted/drag/witch house: an appropriate summation indeed, as her music is most decidedly creepy with a kick drum. This sonic skullduggery has earned her an infamous reputation worldwide for her subversive, bass-drenched DJ sets combining ghetto house, UK funky, dubstep, techno, and all sorts of bleepy stuff &ndash; often with her singing on top. Viv&rsquo;s previous life as one half of DJ duo Syrup Girls and editor-in-chief of influential music mag XLR8R cements her status as someone who knows their stuff.",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/macabre-mix-star-eyes-top-10-from-hell",
+	  "name": "Star Eyes",
+	  "nickname": "eyes",
+	  "radio": "http://www.rbmaradio.com/people/star-eyes",
+	  "website": "http://www.stareyesforever.com/"
+	},
+
+	{
+	  "bio": "His SOMA pseudonym might be a partial play on Aldous Huxley&rsquo;s infamous fictitious sorrow-obliteration drug. But Stephen O&rsquo;Malley doesn&rsquo;t deal in happiness. The Osiris of drone metal has not only been involved with several of the genre&rsquo;s key bands, including Sunn O))), Burning Witch, Khanate and KTL, but has also played an important part in linking the doom-sphere with the art world. His long list of collaborators stretches from Boris, Merzbow, Jim O&rsquo;Rourke, Keiji Haino and Oren Ambarchi to French theatre specialist Gis&egrave;le Vienne, American sculptor Banks Violette, Italian performance artist Nico Vascellari and Belgian filmmaker Alexis Destoop. After having been involved with the Southern Lord and Ajna Offensive labels, since 2011 O&rsquo;Malley is the curating force behind Ideologic Organ, which also serves as a nom de plume for his art direction and design activities.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/stephen-o-malley",
+	  "name": "Stephen O&rsquo;Malley",
+	  "nickname": "omalley",
+	  "radio": "http://www.rbmaradio.com/shows/sunn-o-fireside-chat",
+	  "website": "http://www.ideologic.org/"
+	},
+
+	{
+	  "bio": "Known for his innovative vocals and drums on such classics as &ldquo;Watching You&rdquo; and &ldquo;Just A Touch of Love&rdquo; with the legendary soul/funk outfit Slave, and his solo work like &ldquo;Weak at the Knees&rdquo; and &ldquo;Nobody Can Be You&rdquo;, Steve Arrington is one of the true pioneers of the West Coast g-funk sound (despite being a Dayton, Ohio resident). His songs have been sampled by the likes of Jay-Z, Snoop, N.W.A., and Mariah Carey among countless others &ndash; and continue to be heard on discerning dancefloors across the globe. After an extended hiatus from music in the 90s, Steve has recently partnered up with Stones Throw&rsquo;s D&acirc;m-Funk for a collaborative album, leaving the door wide open for the next chapter.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/steve-arrington",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/key-tracks-jimmy-douglass-just-a-touch-of-love",
+	  "name": "Steve Arrington",
+	  "nickname": "arrington",
+	  "website": "http://stevearringtonmusic.com/"
+	},
+
+	{
+	  "bio": "The Congos formed as a vocal duo consisting of Ashanti Roy Johnson (tenor) and Cedric Myton (falsetto), later becoming a trio with the addition of Watty Burnett (baritone). They are principally known for the legendarily slept-on <em>Heart of the Congos</em> album recorded with studio wizard Lee &lsquo;Scratch&rsquo; Perry at the Black Ark in 1977. Now considered one of the classic roots recordings, the album was turned down by Island Records and underwent a series of setbacks, which prevented it from reaching the audience it deserved. Reissued by the prolific Blood and Fire label a few years ago, <em>Heart of the Congos</em> is considered by many as standing alongside such seminal reggae recordings as Bob Marley And the Wailers&rsquo; <em>Natty Dread</em>, Burning Spear&rsquo;s <em>Marcus Garvey</em>, and the Mighty Diamonds&rsquo; <em>Right Time</em>. In 2006 Blood and Fire also released <em>Fisherman Style</em>, an album built on versions of their classic track &ldquo;Fisherman,&rdquo; and in 2012 the Congos linked up with Sun Araw and M. Geddes Gengras to record the <em>Icon Give Thank</em> LP.",
+	  "name": "The Congos",
+	  "nickname": "congos",
+	  "radio": "http://www.rbmaradio.com/people/the-congos",
+	  "website": "http://www.discogs.com/artist/Congos%2C+The"
+	},
+
+	{
+	  "bio": "Since the release of his acclaimed full-length debut, Stephen Bruner aka Thundercat has become a central pillar of the West Coast beat movement. As a bass player trained in jazz and classical, Stephen had already gained an impressive resume by collaborating with all-time greats such as Erykah Badu, Snoop Dogg, and Stanley Clarke before eventually catching the beat bug. Growing up in a family of drummers, Stephen quickly followed suit. At only 15, he backed the boy band No Curfew and toured Japan with soul legend Leon Ware. He also joined his brother in the rhythm section of funk-fuelled thrash metal legends Suicidal Tendencies. After years of crafting his own music as Thundercat, The Golden Age Of Apocalypse, released in 2011, picked up right where FlyLo&rsquo;s Cosmogramma left off, melding the astrality of Sun Ra with the impact of future bass. His second Brainfeeder full length (again in collaboration with Flying Lotus) saw him further solidifying his cosmic calibrations: swirling jazz melodies, heavy basslines, and fierce electronica threaded through with the subtle fragility of his vocals.",
+	  "name": "Thundercat",
+	  "nickname": "thundercat",
+	  "radio": "http://www.rbmaradio.com/people/thundercat",
+	  "website": "http://thundercattheamazing.tumblr.com/"
+	},
+
+	{
+	  "bio": "House legend and Daft Punk collaborator Todd Edwards is well known for his hypnotic collage of cut-up samples over swing house beats and extremely juicy, disco-flavoured bass lines. Credited as one of the godfathers of UK garage, his four to the floor beats have won him a passionate fan base in Europe. Todd&rsquo;s trademark sound on his early releases on NYC house labels like i! Records and Nervous quickly cemented his status in underground dance music circles across the pond, in the time before London&rsquo;s two-step sound had morphed into grime. He has also remixed Moloko, Justice, Phoenix, St Germain, Klaxons, and even Boris, amongst numerous others. He also co-produced and sang on Daft Punk&rsquo;s <em>Face To Face</em> on their milestone album <em>Discovery</em>.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/todd-edwards",
+	  "name": "Todd Edwards",
+	  "nickname": "edwards",
+	  "radio": "http://www.rbmaradio.com/people/todd-edwards",
+	  "website": "http://www.facebook.com/toddedwardsmusic"
+	},
+
+	{
+	  "bio": "Tom Moulton has so many firsts to his name it&rsquo;s hard to know where to begin. First remix, first continuous-mix album, first 12&quot; single, first extended breakbeat. If there was a Mount Rushmore for disco, Moulton&rsquo;s face&mdash;the same face that earned him a parallel modeling career&mdash;would be among the first to be carved. Despite never working as a live DJ, his work transformed the dance music scene through a series of continuous mixtapes&mdash;made in the days before mixers&mdash;for a hip gay bar in Fire Island. To meet the demand for more tapes he needed longer tracks, so he sought out instrumental versions from record companies, enabling a longer mix. It was this need for a more spacious, often multi-part mix (Tom loved the idea of a suite) that led to the invention of the 12&quot;. Throughout the &lsquo;70s he remixed artists as varied as BT Express and Isaac Hayes, produced the first three Grace Jones albums, the unbroken mix on one side of Gloria Gaynor&rsquo;s <em>Never Can Say Goodbye</em>, and remixed reams and reams of material for Philadelphia International and Salsoul. He is the official archivist of the latter label to this day.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/tom-moulton",
+	  "name": "Tom Moulton",
+	  "nickname": "moulton",
+	  "website": "http://www.facebook.com/tommoultonofficial"
+	},
+
+	{
+	  "bio": "Within the Pretorian deep house scene, the aptly named DJ and producer Trancemicsoul has emerged as one of the more innovative figures. Taking cues from jazz, downtempo, hip hop, kwaito, and electronic sounds, Trancemicsoul blends them effortlessly in his classy, sophisticated compositions. Behind the decks, he showcases a superb deep house selection, built for the long haul and for the even longer night ahead.",
+	  "name": "Trancemicsoul",
+	  "nickname": "transmicsoul",
+	  "radio": "http://www.rbmaradio.com/shows/trancemicsoul-live-at-the-do-over",
+	  "website": "http://www.facebook.com/pages/Trancemicsoul/131522090213619"
+	},
+
+	{
+	  "name": "Trouble & Bass",
+	  "nickname": "bass",
+	  "bio": "Trouble & Bass was born in the dirty streets of Brooklyn, \r\nfulfilling Drop The Lime’s vision of a futuristic mob of \r\nDJ/producers playing hard-hitting warehouse beats with \r\nno rules but plenty of trouble. The crew is known for \r\nmashing up the sounds of UK bass culture—jungle, \r\ndubstep, grime, bassline house—with American regional \r\nsounds (Miami bass, Baltimore club, Southern rap) and \r\npure Brooklyn attitude, creating a trademark style called \r\n“heavy bass.” Founding DJ/producers Drop the Lime and \r\nStar Eyes—alongside AC Slater, Strange VIP, and \r\naffiliates worldwide (Starkey, Plastician, Distal, Flinch, \r\netc)—have built Trouble & Bass into a record label, \r\nmerchandise line and party crew whose logo and dark, \r\nedgy aesthetic are instantly recognizable around the \r\nworld. Along the way, these vamp champs have worked \r\nwith everyone from Moby to Ninjasonik, from Spankrock to \r\nBaauer. Seven years and 100 releases later they remain \r\ntrue to their DIY roots while living up to their motto “We \r\nNever Sleep.”",
+	  "radio": "http://www.rbmaradio.com/shows/rbma-culture-clash-nyc-2013-round-1-temperature-s-rising",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/drop-the-lime-interview",
+	  "website": "http://troubleandbass.com/"
+	},
+
+	{
+	  "bio": "The gentleman best known for writing the lyrics to a certain lost classic by the Beach Boys is an arranger, composer, and original American eccentric&mdash;and that&rsquo;s not even the half of it. His first arranging job was on <em>The Jungle Book</em> (where his addition, &ldquo;The Bare Necessities,&rdquo; scooped an Academy Award nomination); he once sang &ldquo;Stille Nacht&rdquo; to Einstein; and back in the &rsquo;70s he started the world&rsquo;s first record-company video department at Warner Bros. This dynamo of expressive, idiosyncratic musical ideas shows no sign of running out of juice&mdash;more recently he&rsquo;s woven his expressive arrangements around the music of Rufus Wainwright, St. Etienne, and Joanna Newsom, for whom he orchestrated her second album, <em>Ys</em>. Parks&rsquo; music, by turns elegiac and psychedelic, stretches into the bygone age of a lost America and bursts into the wide-open plains of whatever he chooses to do next. You couldn&rsquo;t make Van Dyke Parks up, and if you did, no one would believe you.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/van-dyke-parks",
+	  "name": "Van Dyke Parks",
+	  "nickname": "parks",
+	  "radio": "http://www.rbmaradio.com/people/van-dyke-parks",
+	  "website": "http://vandykeparks.com/"
+	},
+
+	{
+	  "name": "Yacht",
+	  "nickname": "yacht",
+	  "bio": "YACHT is a lot of things. It’s kind of a band, but it’s mostly \r\na genre- and media-spanning life project founded and led \r\nby Jona Bechtolt of Portland, Oregon. Bechtholt and \r\npartner Claire L. Evans make anthemic power jams, play \r\nthem backwards, and soak them in nearly psychedelic \r\ncherry cola. The heart is in the shows: uncluttered, \r\ninspiring sessions of damaged dance moves and \r\nsynchronized crowd-waving, backed by constantly \r\nchanging elements: PowerPoint presentations, audience \r\nQ&A sessions, and shamanistic video environments. It \r\nwasn’t until 2003 that Bechtolt unveiled the project, with \r\nthe largely instrumental album Super Warren MMIV, \r\nreleased by States Rights Records, followed by a 10\" \r\nalbum Mega 10 which was re-released as a CD with an \r\naccompanying DVD of Bechtolt’s digital films. When not \r\noccupied with YACHT, Bechtolt has worked as a \r\ncollaborator and/or accompanist for Devendra Banhart, \r\nBobby Birdman, and the Microphones, among others.",
+	  "radio": "http://www.rbmaradio.com/people/yacht",
+	  "website": "http://teamyacht.com/"
+	},
+
+	{
+	  "bio": "Artists need their people. Gimel &lsquo;Young Guru&rsquo; Keaton is Jay-Z&rsquo;s people. Whenever the rap-conquering MC and world-conquering mogul steps into the booth (as he continues to do, despite all the hollow retirement threats given after his <em>Black Album</em> milestone), Young Guru is outside, at the board, making sure Hova sounds good. Ever since Jigga caught up with Guru at the lab recording Roc-A-Fella&rsquo;s Memphis Bleek, this is how it&rsquo;s done. Along the way, Guru has recorded pretty much every other A-list rapper, always showcasing his enormous talents for adding a bit of crisp to chart-topping hit singles and some polish to gritty underground tracks. Some say he has the Midas touch, and they might actually have a point.",
+	  "lecture": "http://www.redbullmusicacademy.com/lectures/young_guru_vibe_over_money",
+	  "magazine": "http://www.redbullmusicacademy.com/magazine/key-tracks-young-guru-run-this-town",
+	  "name": "Young Guru",
+	  "nickname": "guru",
+	  "radio": "http://www.rbmaradio.com/people/young-guru",
+	  "website": "http://www.djyoungguru.com/"
 	}
+	
 
 ]}

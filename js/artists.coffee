@@ -67,6 +67,7 @@ $ ->
 		castList = $('.artist-list ul')
 		nextArtist = $('#next-artist')
 		prevArtist = $('#prev-artist')
+		artistBox = $('#artist-info')
 
 		#on rollover, set up pictures
 		artistName.bind 'mouseenter', ->
@@ -79,6 +80,11 @@ $ ->
 			goToNext()
 		prevArtist.bind 'click', ->
 			goToPrev()
+		$('#go-home').bind 'click', ->
+			artistBox.transition {
+				left: '100%'
+			},500,"ease"
+			$(@).hide()
 
 
 	#4
