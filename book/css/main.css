@@ -290,8 +290,8 @@ footer {
     overflow: hidden; }
     footer .footer-left .footer-about-the-design {
       margin-bottom: 20px;
-      margin-left: 10%;
-      font-size: 1.3em;
+      margin-left: 20px;
+      font-size: 1.5em;
       color: black;
       font-weight: 800;
       text-transform: uppercase; }
@@ -318,48 +318,31 @@ footer {
     width: 40%;
     left: 30%;
     right: 30%;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     text-align: center; }
     footer .footer-center .footer-extras {
       text-transform: uppercase;
-      font-size: 1.3em;
+      font-size: 1.5em;
       margin-bottom: 20px;
       font-weight: 800; }
   footer .footer-right {
-    width: 50%;
-    left: 50%;
+    width: 25%;
     right: 0;
     position: absolute;
     bottom: 0;
+    font-size: 1.5em;
     text-align: right; }
     footer .footer-right .footer-rbma {
       color: black;
       text-transform: uppercase;
       margin-bottom: 20px;
-      margin-right: 10%;
-      font-size: 1.3em; }
-      footer .footer-right .footer-rbma ul {
-        list-style-type: none;
-        display: inline; }
-        footer .footer-right .footer-rbma ul li {
-          display: inline; }
-          footer .footer-right .footer-rbma ul li a img {
-            max-width: 65px;
-            position: absolute;
-            right: 27px;
-            bottom: 22.5px; }
-            footer .footer-right .footer-rbma ul li a img:hover {
-              opacity: 0.6; }
-          footer .footer-right .footer-rbma ul li a p {
-            font-family: 'Clan', helvetica, sans-serif;
-            font-weight: 800;
-            text-transform: none;
-            font-size: 0.7em;
-            right: 105px;
-            bottom: 8px;
-            position: absolute;
-            text-transform: uppercase; }
+      margin-right: 20px; }
+      footer .footer-right .footer-rbma a p {
+        font-family: 'Clan', helvetica, sans-serif;
+        font-weight: 800;
+        text-transform: none;
+        text-transform: uppercase; }
 
 /* ==========================================================================
    content
