@@ -163,6 +163,7 @@ function insertArtistInfo(){
 		artistBox.find('.exit').removeClass('hidden');
 		artistBox.find('.assets img').attr('src', '//d17vwh530ty7de.cloudfront.net/artist/' + pic + '.jpg');
 
+
 		//loop through ul's, hide them, then show only the one that matches the class of artist clicked
 		links.each(function(){
 			$(this).css({
