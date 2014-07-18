@@ -164,12 +164,12 @@ a {
   -o-user-select: none; }
   #left-nav .conversations {
     color: black;
-    margin-left: 5%;
-    margin-top: 20px;
+    margin-left: 20px;
+    margin-top: 15px;
     text-transform: uppercase;
     font-family: 'clan', Helvetica, sans-serif;
     font-weight: 800;
-    font-size: 1.3em;
+    font-size: 1.5em;
     overflow: visible; }
   #left-nav span {
     display: none;
@@ -232,9 +232,9 @@ a {
   -o-user-select: none; }
   #center-nav .about-the-book {
     text-transform: uppercase;
-    margin-top: 20px;
+    margin-top: 15px;
     font-weight: 800;
-    font-size: 1.3em;
+    font-size: 1.5em;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -244,8 +244,8 @@ a {
   width: 20%;
   height: 150px;
   position: fixed;
-  top: 20px;
-  right: 10px;
+  top: 0;
+  right: 0;
   z-index: 3;
   opacity: 1;
   text-align: right;
@@ -256,9 +256,9 @@ a {
   -ms-user-select: none;
   -o-user-select: none; }
   #right-nav .buy {
-    margin-right: 10%;
-    margin-top: 0;
-    font-size: 1.3em;
+    margin-top: 15px;
+    margin-right: 20px;
+    font-size: 1.5em;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 800;
