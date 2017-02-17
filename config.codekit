@@ -1,7 +1,18 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17580",
+"creatorBuild": "19115",
 "files": {
+	"\/artists.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/artists.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/artists-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/book\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -73,6 +84,46 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/book\/gordon-mac-keith-skues-interview\/css\/gordon.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/css\/gordon.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/book\/gordon-mac-keith-skues-interview\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/book\/gordon-mac-keith-skues-interview\/js\/gordon.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/js\/gordon.js",
+		"outputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/js\/min\/gordon-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/book\/gordon-mac-keith-skues-interview\/js\/min\/gordon-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/js\/min\/gordon-min.js",
+		"outputAbbreviatedPath": "\/book\/gordon-mac-keith-skues-interview\/js\/min\/min\/gordon-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/book\/img\/1.jpg": {
 		"fileType": 16384,
@@ -1364,7 +1415,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 69811,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-good-day.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-good-day.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1375,7 +1426,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 18746,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-table-small.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-table-small.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1386,7 +1437,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 70339,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-table.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-table.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1397,7 +1448,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 232258,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-walk-color.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/ata-walk-color.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1408,7 +1459,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 128844,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/body.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/body.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1419,7 +1470,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 160073,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch-version.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch-version.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1430,7 +1481,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 142515,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1441,7 +1492,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 437041,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/couch.png",
 		"outputPathIsOutsideProject": 0,
@@ -1452,7 +1503,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 2844,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/darr-pos.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/darr-pos.png",
 		"outputPathIsOutsideProject": 0,
@@ -1463,7 +1514,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1552,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook-circle.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook-circle.png",
 		"outputPathIsOutsideProject": 0,
@@ -1474,7 +1525,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1544,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook-cirlce.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook-cirlce.png",
 		"outputPathIsOutsideProject": 0,
@@ -1485,7 +1536,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1173,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/facebook.png",
 		"outputPathIsOutsideProject": 0,
@@ -1496,7 +1547,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1139,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/fb-white.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/fb-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1507,7 +1558,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1859,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google-circle.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google-circle.png",
 		"outputPathIsOutsideProject": 0,
@@ -1518,7 +1569,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1517,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google-white.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1529,7 +1580,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1498,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/google.png",
 		"outputPathIsOutsideProject": 0,
@@ -1540,7 +1591,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 29481,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/icons-se3ff754b8e.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/icons-se3ff754b8e.png",
 		"outputPathIsOutsideProject": 0,
@@ -1551,7 +1602,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 15202,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/nav.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/nav.png",
 		"outputPathIsOutsideProject": 0,
@@ -1562,7 +1613,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 6988,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/rbma-logo.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/rbma-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -1573,7 +1624,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 187893,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title-color.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title-color.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1584,7 +1635,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 146606,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1595,7 +1646,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1.61946e+06,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/title.png",
 		"outputPathIsOutsideProject": 0,
@@ -1606,7 +1657,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 141819,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-garden.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-garden.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1617,7 +1668,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 164596,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-stereo.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-stereo.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1628,7 +1679,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 77200,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-window-tall-color.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/trevor-window-tall-color.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1639,7 +1690,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1619,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter-circle.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter-circle.png",
 		"outputPathIsOutsideProject": 0,
@@ -1650,7 +1701,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1687,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter-white.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1661,7 +1712,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1660,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/twitter.png",
 		"outputPathIsOutsideProject": 0,
@@ -1672,7 +1723,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 75708,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window-tall.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window-tall.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1683,7 +1734,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 74323,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window.jpg",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1694,7 +1745,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1.4607e+06,
 		"inputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window.png",
 		"outputAbbreviatedPath": "\/book\/trevor-jackson-ata-interview\/media\/window.png",
 		"outputPathIsOutsideProject": 0,
@@ -4724,6 +4775,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/min\/artist-section-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/artist-section-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/artist-section-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/ember-ck.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4763,6 +4825,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/home-ck.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/home-ck-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/home-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/home-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/home-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4891,36 +4964,11 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/styles\/user.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/styles\/user.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/styles\/user.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 5,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/styles\/user.scss",
-		"outputAbbreviatedPath": "\/css\/user.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
 		}
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Edweena Inc.",
+"lastSavedByUser": "James Singleton",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -4966,6 +5014,10 @@
 			},
 		"empty_constructor_needs_parens": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"indentation": {
@@ -5016,8 +5068,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -5026,6 +5086,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -5052,8 +5116,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
 			"flagValue": -1
 			}
 		},
@@ -5111,6 +5183,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"camelcase": {
 			"active": 0,
 			"flagValue": -1
@@ -5133,6 +5209,10 @@
 			},
 		"dojo": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
@@ -5171,6 +5251,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -5184,6 +5268,10 @@
 			"flagValue": 4
 			},
 		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5231,6 +5319,10 @@
 			"active": 0,
 			"flagValue": 4
 			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"mootools": {
 			"active": 0,
 			"flagValue": -1
@@ -5249,6 +5341,10 @@
 			},
 		"noarg": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -5299,6 +5395,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"regexp": {
 			"active": 1,
 			"flagValue": -1
@@ -5316,6 +5416,10 @@
 			"flagValue": -1
 			},
 		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5343,6 +5447,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"withstmt": {
 			"active": 0,
 			"flagValue": -1
@@ -5361,10 +5469,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -5373,15 +5477,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5389,75 +5485,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5466,6 +5514,14 @@
 			"flagValue": -1
 			}
 		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
@@ -5493,9 +5549,18 @@
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
 	"markdownEnableFootnotes": 0,
-	"markdownEnableSmartyPants": 1,
-	"markdownExpandTabs": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
 	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
@@ -5519,6 +5584,7 @@
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 0,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
@@ -5527,6 +5593,7 @@
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
@@ -5539,15 +5606,22 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5580,6 +5654,10 @@
 			"flagValue": -1
 			},
 		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5623,6 +5701,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -5635,8 +5721,16 @@
 			"active": 1,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"properties": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {

@@ -24,11 +24,6 @@ $(document).ready(function() {
 
 	var iOS = ( navigator.userAgent.match(/(Android|iPad|iPhone|iPod)/g) ? true : false );
 	
-	var hd = "https://d1cwrlyxfuylre.cloudfront.net/HD+What+Difference+Does+It+Make%3F+A+Film+About+Making+Music.mp4";
-	var sd = "https://d1cwrlyxfuylre.cloudfront.net/SD-what-difference-does-it-make.mp4";
-	
-	var hd_jp = "https://d1cwrlyxfuylre.cloudfront.net/HD+JP+What+Difference+Does+It+Make%3F.mp4";
-	var sd_jp = "https://d1cwrlyxfuylre.cloudfront.net/SD+JP+What+Difference+Does+It+Make%3F.mp4";
 
 
 	//ARTIST SHIT
@@ -99,8 +94,8 @@ $(document).ready(function() {
 	// MAIN PAGE INIT
 	function init(){
 		//set up download links
-		sd_download.attr('href', sd);
-		hd_download.attr('href', hd);
+		sd_download.attr('href', '#');
+		hd_download.attr('href', '#');
 		videoId = '_EDnMFJiv8U';
 		loadYouTube();
 
@@ -132,18 +127,7 @@ $(document).ready(function() {
 
 		function onPlayerReady(){
 			$('#play-button').on('click', function(e){
-				e.preventDefault();
-				$(this).fadeOut();
-				//iOS not supporting autoplay, so skip for those devices
-				if( !iOS ){
-					player.playVideo();
-				}
-				$('#embed').css({
-					zIndex: '99',
-					opacity: '1'
-				});
-				//check player every 10 seconds for video position
-				i = setInterval(checkPlayer, 10000);
+				return null;
 			});
 		}
 
